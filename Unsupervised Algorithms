@@ -1,1 +1,5 @@
-
+1. Clustering / Segmentation
+    a. Hierarchical Clustering
+      - Agglomerative Clustering : Bottom to Up
+      - Divisive Clustering : Top to Bottom
+    b. Non-Hierarchical Clustering
