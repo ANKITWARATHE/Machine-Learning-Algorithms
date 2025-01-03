@@ -1,5 +1,23 @@
 1. Clustering / Segmentation
     a. Hierarchical Clustering
-      - Agglomerative Clustering : Bottom to Up
-      - Divisive Clustering : Top to Bottom
-    b. Non-Hierarchical Clustering
+        - Agglomerative Clustering : Bottom to Up
+        - Divisive Clustering : Top to Bottom
+    b. Non-Hierarchical Clustering / Partition Based Clustering
+        - K- Mean
+        - K- Median
+        - K- Medoids
+        - k- Modes
+    c. Density Based Clustering 
+        - DBSCAN
+        - OPTICS
+
+2. Dimension Reduction : Reduce the number of columns
+    a. LDA
+    b. SVD
+    c. PCA
+
+3. Association Rule
+
+4. Recommendation System
+
+5. Network Analysis
